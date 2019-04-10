@@ -9,3 +9,7 @@
 {"quantity":100,"price":2,"metrics":"L","productor":1,"type":4,"createdAt":1554901607195,"updatedAt":1554901607195,"id":6,"name":"","_id":6}
 {"quantity":80,"price":3,"metrics":"kg","productor":1,"type":2,"createdAt":1554901689150,"updatedAt":1554901689150,"id":7,"name":"","_id":7}
 {"quantity":200,"price":20,"metrics":"kg","productor":1,"type":4,"createdAt":1554901729453,"updatedAt":1554901729453,"id":8,"name":"","_id":8}
+{"$$deleted":true,"_id":8}
+{"quantity":200,"price":20,"metrics":"kg","productor":1,"type":4,"createdAt":1554901729453,"updatedAt":1554905987790,"id":8,"name":"","_id":8}
+{"$$deleted":true,"_id":8}
+{"quantity":200,"price":20,"metrics":"kg","productor":1,"type":8,"createdAt":1554901729453,"updatedAt":1554906315528,"id":8,"name":"","_id":8}
