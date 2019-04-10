@@ -1,0 +1,6 @@
+{"$$indexCreated":{"fieldName":"id","unique":true,"sparse":false}}
+{"createdAt":1554900271154,"updatedAt":1554900271154,"id":1,"name":"légumes","_id":1}
+{"createdAt":1554900281771,"updatedAt":1554900281771,"id":2,"name":"fruits","_id":2}
+{"createdAt":1554900294697,"updatedAt":1554900294697,"id":3,"name":"Produits laitiers","_id":3}
+{"createdAt":1554900301017,"updatedAt":1554900301017,"id":4,"name":"Viande","_id":4}
+{"createdAt":1554900307327,"updatedAt":1554900307327,"id":5,"name":"Autre","_id":5}

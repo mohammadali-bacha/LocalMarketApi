@@ -1,0 +1,3 @@
+{"$$indexCreated":{"fieldName":"id","unique":true,"sparse":false}}
+{"createdAt":1554898620489,"updatedAt":1554899149643,"id":2,"name":"resto1","password":"resto1","email":"resto1@resto.com","productors":null,"restaurants":1,"_id":2}
+{"productor":"1","createdAt":1554900141291,"updatedAt":1554900189892,"id":3,"name":"productor1","password":"productor1","email":"","productors":1,"restaurants":null,"_id":3}

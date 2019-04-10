@@ -1,0 +1,11 @@
+{"$$indexCreated":{"fieldName":"id","unique":true,"sparse":false}}
+{"quantity":300,"price":5.95,"metrics":"kg","productor":3,"type":1,"createdAt":1554901261010,"updatedAt":1554901261010,"id":1,"name":"","_id":1}
+{"quantity":300,"price":5.95,"metrics":"kg","productor":1,"type":1,"createdAt":1554901345739,"updatedAt":1554901345739,"id":2,"name":"","_id":2}
+{"$$deleted":true,"_id":1}
+{"$$deleted":true,"_id":2}
+{"quantity":300,"price":5.95,"metrics":"kg","productor":1,"type":1,"createdAt":1554901384521,"updatedAt":1554901384521,"id":3,"name":"","_id":3}
+{"quantity":30,"price":6,"metrics":"kg","productor":1,"type":3,"createdAt":1554901475098,"updatedAt":1554901475098,"id":4,"name":"","_id":4}
+{"quantity":90,"price":11,"metrics":"kg","productor":1,"type":7,"createdAt":1554901510807,"updatedAt":1554901510807,"id":5,"name":"","_id":5}
+{"quantity":100,"price":2,"metrics":"L","productor":1,"type":4,"createdAt":1554901607195,"updatedAt":1554901607195,"id":6,"name":"","_id":6}
+{"quantity":80,"price":3,"metrics":"kg","productor":1,"type":2,"createdAt":1554901689150,"updatedAt":1554901689150,"id":7,"name":"","_id":7}
+{"quantity":200,"price":20,"metrics":"kg","productor":1,"type":4,"createdAt":1554901729453,"updatedAt":1554901729453,"id":8,"name":"","_id":8}
