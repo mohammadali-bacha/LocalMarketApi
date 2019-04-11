@@ -32,9 +32,7 @@ module.exports.datastores = {
 
   default: {
     adapter: "sails-mongo",
-    url:
-      "mongo ds137596.mlab.com:37596/heroku_lvrq2t8w -u <m-ali69> -p <m-ali69>"
-
+    mongodb: "m-ali69:m-ali69@ds137596.mlab.com:37596/heroku_lvrq2t8w"
     /***************************************************************************
      *                                                                          *
      * Want to use a different database during development?                     *
